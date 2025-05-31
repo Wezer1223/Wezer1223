@@ -3,6 +3,6 @@
 </p>
 
 <div id="header" align="center">
-  <h1>👋 Hello there, I'm Maxim</h1>
-  <h3>Fullstack and Python Developer from Prague</h3>
+  <h1>👋 Hello there</h1>
+  <h3>Fullstack and Python Developer</h3>
 </div>
